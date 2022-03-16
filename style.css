@@ -39,3 +39,19 @@ header{
 .navigation a:hover{
     color: #601cfc;
 }
+
+
+section{
+    padding: 100px 200px;
+}
+
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(Images/background.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
