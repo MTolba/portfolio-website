@@ -286,7 +286,7 @@ section {
 
 @media (max-width:641px) {
     body {
-        font-size: 12px;
+        font-size: 12px; /*1em now equal 12px not 16px*/
     }
 
     .main-content h2 {
@@ -300,7 +300,7 @@ section {
 
 @media (max-width:300px) {
     body {
-        font-size: 10px;
+        font-size: 10px; /*1em now equal 10px not 16px*/
 
     }
 }
